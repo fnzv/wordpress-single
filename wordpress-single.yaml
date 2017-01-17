@@ -55,7 +55,7 @@ parameters:
     label: Server Size
     description: |
       Required: Rackspace Cloud Server flavor to use. The size is based on the
-      amount of RAM for the provisioned server.
+      amount of RAM for the provisioned serveraa.
     type: string
     default: e1standard.x4
     constraints:
