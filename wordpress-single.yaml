@@ -57,7 +57,7 @@ parameters:
       Required: Rackspace Cloud Server flavor to use. The size is based on the
       amount of RAM for the provisioned server.
     type: string
-    default: 4 GB General Purpose v1
+    default: e1standard.x4
     constraints:
     - allowed_values:
       - e1standard.x1
